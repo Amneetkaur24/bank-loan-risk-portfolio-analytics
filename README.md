@@ -1,4 +1,4 @@
-# bank-loan-risk-portfolio-analytics
+# Power BI Bank Loan Risk Portfolio Analytics
 <img width="887" height="491" alt="Screenshot 2026-03-16 171252" src="https://github.com/user-attachments/assets/bc9ea768-86de-4b1b-997c-3330ce1c436a" />
 <img width="887" height="496" alt="Screenshot 2026-03-16 171351" src="https://github.com/user-attachments/assets/fb4abc2c-3170-4504-8b8c-d19e074c410b" />
 
