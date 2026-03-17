@@ -16,6 +16,7 @@ This dashboard was developed to support:
 • Evaluation of loan portfolio quality (good vs bad loans)
 • Analysis of borrower characteristics and risk factors
 • Identification of funding trends across time and loan segments
+<img width="858" height="488" alt="Screenshot 2026-03-16 162744" src="https://github.com/user-attachments/assets/5f1a3020-2f0c-428f-b796-d4eb8a5792e7" />
 
 ## Tools & Technologies
 
