@@ -81,8 +81,19 @@ The dashboard enables financial analysts and lending teams to:
 By transforming loan data into interactive insights, this solution supports data-driven lending and risk management decisions.
 
 ## Repository Structure
-
-data/ – loan dataset used for analysis
-dashboard/ – Power BI dashboard (.pbix file)
-images/ – dashboard screenshots
-insights.md – key portfolio insights derived from analysis
+bank-loan-portfolio-analytics
+|
+├── data
+├── dashboard
+│   └── loan_dashboard.pbix
+├── images
+│   └── dashboard_preview.png
+├── insights.md
+└── README.md
+├── data
+├── dashboard
+│   └── loan_dashboard.pbix
+├── images
+│   └── dashboard_preview.png
+├── insights.md
+└── README.md
