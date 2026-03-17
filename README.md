@@ -90,10 +90,3 @@ bank-loan-portfolio-analytics
 │   └── dashboard_preview.png
 ├── insights.md
 └── README.md
-├── data
-├── dashboard
-│   └── loan_dashboard.pbix
-├── images
-│   └── dashboard_preview.png
-├── insights.md
-└── README.md
